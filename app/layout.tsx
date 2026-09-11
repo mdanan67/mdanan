@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Atif Mostoba | Software Engineer",
+  title: "Atif Mostoba",
   description:
     "A software engineering portfolio for Atif Mostoba, focused on Python, TypeScript, C#, full-stack web apps, ASP.NET Core, databases, microservices and AI agent workflows.",
 };
